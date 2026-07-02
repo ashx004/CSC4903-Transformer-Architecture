@@ -1,0 +1,6 @@
+[package]
+name = "CSC4903-Transformer-Architecture"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
